@@ -2,3 +2,6 @@
 Machine learning project for classifying passengers as per survival based on different features. 
 
 ![](titanic.png)
+
+![](titanic_plot.png)
+
